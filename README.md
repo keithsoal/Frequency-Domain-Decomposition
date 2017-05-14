@@ -1,2 +1,2 @@
 # Frequency-Domain-Decomposition
-This repository provides open source code for system identification known as frequency domain decomposition
+This repository provides open source code for the system identification technique known as frequency domain decomposition
